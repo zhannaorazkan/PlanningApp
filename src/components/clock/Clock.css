@@ -1,0 +1,17 @@
+.clock{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.greet{
+    position: fixed;
+    top: 70%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}

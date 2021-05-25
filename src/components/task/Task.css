@@ -1,0 +1,63 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.todo-app{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 550px;
+    min-height: 600px;
+    margin: 128px auto;
+}
+
+h1 {
+    margin-left: 125px;
+    color: white;
+    letter-spacing: 2px;
+}
+
+
+
+.todo-form {
+    margin-bottom: 32px;
+    margin-left: 80px;
+}
+
+.todo-input {
+    padding: 14px 32px 14px 16px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid #2b7572;
+    outline: none;
+    width: 320px;
+    background: white;
+}
+
+
+
+.todo-button {
+    padding: 16px;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    outline: none;
+    background: linear-gradient(to right, #2b7572, #318884);
+    color: #fff;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
+th{
+    color: white;
+    letter-spacing: 1px;
+}
+td{
+    color: white;
+}
+
+
+
+
+
+
+
