@@ -33,18 +33,6 @@ export const SidebarData = [
         cName: 'nav-text'
     },
     {
-        title: 'Calendar',
-        path: '/calendar',
-        icon: <BsIcons.BsCalendar />,
-        cName: 'nav-text'
-    },
-    {
-        title: 'Memories',
-        path: '/memories',
-        icon: <BiIcons.BiPhotoAlbum />,
-        cName: 'nav-text'
-    },
-    {
         title: 'Music',
         path: '/music',
         icon: <BsIcons.BsMusicNoteBeamed/>,
