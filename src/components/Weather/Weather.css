@@ -15,8 +15,7 @@
     transition: 0.4s;
   }
   .app.warm {
-    /* // background-image: url('./assets/warm-bg.jpg'); */
-    background-color: burlywood;
+    background-image: url('T_4-01.jpg');
   }
   main {
     min-height: 100vh;
