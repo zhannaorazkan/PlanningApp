@@ -8,7 +8,6 @@ import Greeting from "../clock/Greeting";
 import Weather from "../Weather/Weather";
 import AddTask from "../task/AddTask";
 import Tasks from "../task/Tasks";
-import Calendar from "../Calendar";
 import player from '../player/music';
 import Timer from "../timer/Timer";
 const MainPage=({uid})=>{
@@ -33,7 +32,7 @@ const MainPage=({uid})=>{
         <Timer  defaultBreakLength='5'
                 defaultSessionLength='25'/>
     </Route>
-    <Route path="/calendar" component={Calendar}/>
+   
                <div className="main">
                    <Clock/>
                    <Greeting/>
